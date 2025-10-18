@@ -8,4 +8,7 @@
   will code for coffee, will coffee for code
 </p>
 
-REPOS MIRRORED FROM [codeberg](https://codeberg.org/casstanje)
+<p style="font-weight: 900"; align="center">
+  REPOS MIRRORED FROM <a href="https://codeberg.org/casstanje">CODEBERG</a>
+</p>
+
